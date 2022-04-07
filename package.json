@@ -1,0 +1,15 @@
+{
+  "name": "tbf-bw-template",
+  "version": "1.0.0",
+  "description": "TBF Bot with Webserver Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@powerdot/telegram_bot_framework": "^1.1.1",
+    "express": "^4.17.3"
+  }
+}
